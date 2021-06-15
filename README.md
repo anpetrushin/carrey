@@ -20,9 +20,9 @@ carrey_rec_bruce_almighty.ipynb - файл проверки на фрагмен�
 
 Сформированное видео с Джимом Керри https://drive.google.com/file/d/1sTR9WSQuIM1m59YNctl62r2lpRRfdg1B/view?usp=sharing
 
-Исходное видео Брюс всемогущий, фрагмент https://drive.google.com/file/d/1tyTIgDWevD5sTiXMrWRwEjR11OdTB58o/view?usp=sharing
+Проверочное исходное видео "Брюс всемогущий", фрагмент https://drive.google.com/file/d/1tyTIgDWevD5sTiXMrWRwEjR11OdTB58o/view?usp=sharing
 
-Проверка на фрагменте Брюс Всемогущий https://drive.google.com/file/d/1izZa3WqcW9KG1iqUjyUTR8Av853Co5OX/view?usp=sharing
+Сформированное видео с Джимом Керри на фрагменте "Брюс Всемогущий" https://drive.google.com/file/d/1izZa3WqcW9KG1iqUjyUTR8Av853Co5OX/view?usp=sharing
 
 
 # Алгоритм работы
