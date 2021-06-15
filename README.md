@@ -8,6 +8,8 @@ img_carrey - папка с образцами лица Джима Керри
 
 carrey_recognition.ipynb - файл распознавания Джими Керри из исходного видео. 
 
+carrey_encodings.pickle - файл с кодированным образом Джима Керри
+
 carrey_rec_bruce_almighty.ipynb - файл проверки на фрагменте видео "Брюс всемогущий"
 
 Исходное видео https://drive.google.com/file/d/1ErRAGn1f9Z7RmbXXqxtwUXnCCAtKPC-o/view?usp=sharing
