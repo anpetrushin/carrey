@@ -14,6 +14,8 @@ carrey_encodings.pickle - файл с кодированным образом Д
 
 carrey_rec_bruce_almighty.ipynb - файл проверки на фрагменте видео "Брюс всемогущий"
 
+carrey_recognition2.ipynb - немного исправленный фал. Изменения переводу формата avi в mp4
+
 # Результат
 
 Исходное видео https://drive.google.com/file/d/1ErRAGn1f9Z7RmbXXqxtwUXnCCAtKPC-o/view?usp=sharing
