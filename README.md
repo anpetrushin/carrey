@@ -20,9 +20,7 @@ carrey_recognition2.ipynb - немного исправленный фал. Из
 
 Исходное видео https://drive.google.com/file/d/1ErRAGn1f9Z7RmbXXqxtwUXnCCAtKPC-o/view?usp=sharing
 
-Сформированное видео с Джимом Керри https://drive.google.com/file/d/1sTR9WSQuIM1m59YNctl62r2lpRRfdg1B/view?usp=sharing
-
-https://drive.google.com/file/d/1dbolYW1RNpDD5UPTpXouEsJQ6sjxAuiv/view?usp=sharing 
+Сформированное видео с Джимом Керри https://drive.google.com/file/d/1dbolYW1RNpDD5UPTpXouEsJQ6sjxAuiv/view?usp=sharing 
 
 Проверочное исходное видео "Брюс всемогущий", фрагмент https://drive.google.com/file/d/1tyTIgDWevD5sTiXMrWRwEjR11OdTB58o/view?usp=sharing
 
