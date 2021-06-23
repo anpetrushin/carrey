@@ -18,6 +18,10 @@ carrey_recognition2.ipynb - немного исправленный фал. Из
 
 carrey_recognition_without_scrin.ipynb - модифицированный файл, в котором не сохраняются скриншоты и фильм формируется сразу по мере распознавания
 
+https://www.youtube.com/watch?v=TQHxHgsVzqo - исходник
+
+https://www.youtube.com/watch?v=1O4VUQRABfY - результат
+
 # Результат
 
 Исходное видео https://drive.google.com/file/d/1ErRAGn1f9Z7RmbXXqxtwUXnCCAtKPC-o/view?usp=sharing
