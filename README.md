@@ -18,9 +18,13 @@ carrey_recognition2.ipynb - немного исправленный фал. Из
 
 carrey_recognition_without_scrin.ipynb - модифицированный файл, в котором не сохраняются скриншоты и фильм формируется сразу по мере распознавания
 
-https://www.youtube.com/watch?v=TQHxHgsVzqo - исходник
+https://www.youtube.com/watch?v=TQHxHgsVzqo - исходник Шоу Трумена
 
-https://www.youtube.com/watch?v=1O4VUQRABfY - результат
+https://www.youtube.com/watch?v=1O4VUQRABfY - результат Шоу Трумена
+
+https://youtu.be/JrnELjzbma4 - проверка на Брюс Всемогущий - исходник
+
+https://youtu.be/6flQBpNH2A0 проверка на Брюс Всемогущий - результат
 
 # Результат
 
